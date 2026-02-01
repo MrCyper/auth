@@ -1,1 +1,5 @@
-# auth
+⚠️ ملاحظة:
+هذا المشروع يعتمد على PHP و MariaDB
+ولا يمكن تشغيله مباشرة عبر GitHub Pages.
+للتجربة:
+- استخدم Apache محليًا (XAMPP / LAMP / Kali)
